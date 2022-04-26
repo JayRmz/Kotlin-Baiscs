@@ -13,3 +13,5 @@ Here you can find all basic knowledge to develop with Kotlin.
 3. String Interpolation
 4. Arithmetic Operators
 5. Comparison Operators
+6. Increase and Decrease Operators
+7. If Statements
