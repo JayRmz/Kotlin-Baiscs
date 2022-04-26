@@ -12,3 +12,4 @@ Here you can find all basic knowledge to develop with Kotlin.
     - Excersice For Variables en Datatypes.
 3. String Interpolation
 4. Arithmetic Operators
+5. Comparison Operators
