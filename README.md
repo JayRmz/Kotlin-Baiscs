@@ -7,6 +7,8 @@ Here you can find all basic knowledge to develop with Kotlin.
 
 1. Variables
 2. Datatypes
-    2.1 Numbers
-    2.2 Datatypes: bool, char & String
-    2.3 Excersice For Variables en Datatypes.
+    - Numbers
+    - Datatypes: bool, char & String
+    - Excersice For Variables en Datatypes.
+3. String Interpolation
+4. Arithmetic Operators
