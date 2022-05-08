@@ -26,15 +26,27 @@ Here you can find all basic knowledge to develop with Kotlin.
     - Elvis Operator.
 
 ## Object Oriented Programming
-1. Classes and Objects
-2. Classes and initializers
+15. Classes and Objects
+16. Classes and initializers
     - Excersice: Classes and Objects.
-3. Scope and Shadowing
-4. Member variables
-5. Setters and Getters
-6. Data Classes
+17. Scope and Shadowing
+18. Member variables
+19. Setters and Getters
+20. Data Classes
     - Excersice: Classes.
-7. Inheritance
-8. Interfaces
-9. Abstract classes
-10. Typecasting
+21. Inheritance
+22. Interfaces
+23. Abstract classes
+24. Typecasting
+
+## More Fundamentals
+25. Arrays
+26. Lists
+27. Sets and Maps
+28. ArrayLists
+    - Excersice: ArrayLists.
+29. Lambda Expressions
+30. Visibility Modifiers
+31. Nested and Inner Classes
+32. Safe Cast and Unsafe Cast Operator
+33. Exception Handling With Try and Catch
